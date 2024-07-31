@@ -3,5 +3,5 @@
 <html>
     <head>
     <meta charset ="UTF-8"
-    <meta name ="vie>
+    <meta name ="viewport"  content=widt=device-widte 
       
